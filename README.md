@@ -1,5 +1,5 @@
-Hi, I'm Ayberk Arif (PioXRaV), Python developer.
+👋 Hi, I'm Ayberk Arif (PioXRaV), Python developer.
 
-My Server: Soon
+🏠 My Server: Soon
 
-My Website: PioXRaV.github.io
+🌐 My Website: PioXRaV.github.io
