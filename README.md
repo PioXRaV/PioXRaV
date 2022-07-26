@@ -1,5 +1,1 @@
-👋 Hi, I'm Ayberk Arif (PioXRaV), Python developer.
-
-🏠 My Server: Soon
-
-🌐 My Website: PioXRaV.github.io
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PioXRaV)](https://github.com/anuraghazra/github-readme-stats)
