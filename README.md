@@ -15,5 +15,6 @@
 
 ### Stats 📊
 
-![Ayberk Arif Kesikbaş's GitHub stats](https://github-readme-stats.vercel.app/api?username=PioXRaV&show_icons=true&title_color=FF70B5&text_color=00FFFF&icon_color=FFFF00&bg_color=050505)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PioXRaV&layout=compact&title_color=FF70B5&text_color=00FFFF&bg_color=050505)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat)
+![](https://github-readme-stats.vercel.app/api?username=PioXRaV&show_icons=true&title_color=FF70B5&text_color=00FFFF&icon_color=FFFF00&bg_color=050505)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PioXRaV&layout=compact&title_color=FF70B5&text_color=00FFFF&bg_color=050505)
