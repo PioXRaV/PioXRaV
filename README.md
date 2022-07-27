@@ -3,6 +3,7 @@
 ### I use 🧑‍💻
 
 [<img width=32 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://www.python.org)
+[<img width=32 src="https://media.discordapp.net/attachments/872416298615857182/1001792194841169970/PyCharm.png"/>](https://www.jetbrains.com/pycharm)
 
 ### Contact 📞
 
