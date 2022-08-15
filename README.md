@@ -18,6 +18,6 @@
 
 ### 📊 Stats 📊
 
-![](https://github-readme-stats.vercel.app/api?username=PioXRaV&show_icons=true&title_color=FF70B5&text_color=00FFFF&icon_color=FFFF00&bg_color=050505)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PioXRaV&layout=compact&title_color=FF70B5&text_color=00FFFF&bg_color=050505)
-![](https://komarev.com/ghpvc/?username=PioXRaV&color=blue&style=flat)
+![](https://github-readme-stats.vercel.app/api?username=PioXRaV&theme=dark&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PioXRaV&theme=dark&layout=compact)
+![](https://komarev.com/ghpvc/?username=PioXRaV&style=for-the-badge)
