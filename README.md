@@ -2,19 +2,19 @@
 
 ### 🧑‍💻 I use 🧑‍💻
 
-[<img width=75 src="Images/PYTHON 512.png">](https://www.python.org)
-<img width=75 src="Images/HTML 512.png">
-[<img width=75 src="Images/PYCHARM 512.png">](https://www.jetbrains.com/pycharm)
-[<img width=75 src="Images/EDGE 512.png">](https://www.microsoft.com/edge)
-[<img width=75 src="Images/ASEPRITE 512.png">](https://www.aseprite.org)
+[<img width=75 src="Images/PYTHON.png">](https://www.python.org)
+<img width=75 src="Images/HTML.png">
+[<img width=75 src="Images/PYCHARM.png">](https://www.jetbrains.com/pycharm)
+[<img width=75 src="Images/EDGE.png">](https://www.microsoft.com/edge)
+[<img width=75 src="Images/ASEPRITE.png">](https://www.aseprite.org)
 
 ### 📞 Contact 📞
 
-[<img width=75 src="Images/GITHUB 512.png">](https://github.com/PioXRaV)
-[<img width=75 src="Images/DISCORD 512.png">](https://discord.gg/4EzMASfysP)
-[<img width=75 src="Images/INSTAGRAM 512.png">](https://instagram.com/pioxrav)
-[<img width=75 src="Images/TWITTER 512.png">](https://twitter.com/PioXRaV)
-[<img width=75 src="Images/YOUTUBE 512.png">](https://youtube.com/channel/UCVd4foQi2bWer_tiYTJGhiw)
+[<img width=75 src="Images/GITHUB.png">](https://github.com/PioXRaV)
+[<img width=75 src="Images/DISCORD.png">](https://discord.gg/4EzMASfysP)
+[<img width=75 src="Images/INSTAGRAM.png">](https://instagram.com/pioxrav)
+[<img width=75 src="Images/TWITTER.png">](https://twitter.com/PioXRaV)
+[<img width=75 src="Images/YOUTUBE.png">](https://youtube.com/channel/UCVd4foQi2bWer_tiYTJGhiw)
 
 ### 📊 Stats 📊
 
