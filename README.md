@@ -8,6 +8,7 @@
 [<img width=75 src="Images/EDGE.png">](https://www.microsoft.com/edge)
 [<img width=75 src="Images/ASEPRITE.png">](https://www.aseprite.org)
 [<img width=75 src="Images/WINDOWS.png">](https://www.microsoft.com/windows)
+[<img width=75 src="Images/ANDROID.png">](https://www.android.com)
 
 ### 📞 Contact
 
